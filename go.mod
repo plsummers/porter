@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go v0.99.0
 	github.com/AlecAivazis/survey/v2 v2.2.9
 	github.com/Masterminds/semver/v3 v3.1.1
-	github.com/aws/aws-sdk-go v1.35.4
+	github.com/aws/aws-sdk-go v1.43.28
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.3
 	github.com/buildpacks/pack v0.24.1
 	github.com/cli/cli v1.11.0
@@ -62,7 +62,7 @@ require (
 	k8s.io/client-go v0.23.1
 	k8s.io/helm v2.17.0+incompatible
 	k8s.io/kubectl v0.23.1
-	sigs.k8s.io/aws-iam-authenticator v0.5.2
+	sigs.k8s.io/aws-iam-authenticator v0.5.9
 	sigs.k8s.io/yaml v1.3.0
 )
 
@@ -94,7 +94,6 @@ require (
 	github.com/apex/log v1.9.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/bits-and-blooms/bitset v1.2.0 // indirect
 	github.com/buildpacks/imgutil v0.0.0-20220310160537-4dd8bc60eaff // indirect
 	github.com/buildpacks/lifecycle v0.14.0 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.3.0 // indirect
@@ -199,7 +198,6 @@ require (
 	github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/onsi/ginkgo v1.16.4 // indirect
-	github.com/onsi/gomega v1.18.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/runc v1.1.0 // indirect
 	github.com/opencontainers/selinux v1.10.0 // indirect

@@ -35,7 +35,7 @@ require (
 	github.com/joeshaw/envdecode v0.0.0-20200121155833-099f1fc765bd
 	github.com/kris-nova/logger v0.0.0-20181127235838-fd0d87064b06
 	github.com/mitchellh/mapstructure v1.4.3
-	github.com/moby/moby v20.10.6+incompatible
+	github.com/moby/moby v20.10.20+incompatible
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6
 	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
@@ -94,7 +94,6 @@ require (
 	github.com/apex/log v1.9.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/bits-and-blooms/bitset v1.2.0 // indirect
 	github.com/buildpacks/imgutil v0.0.0-20220310160537-4dd8bc60eaff // indirect
 	github.com/buildpacks/lifecycle v0.14.0 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.3.0 // indirect
@@ -199,7 +198,6 @@ require (
 	github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/onsi/ginkgo v1.16.4 // indirect
-	github.com/onsi/gomega v1.18.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/runc v1.1.0 // indirect
 	github.com/opencontainers/selinux v1.10.0 // indirect
